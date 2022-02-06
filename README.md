@@ -1,4 +1,4 @@
-Industry Lab 08: Input and Output (IO)
+Industry Lab 08: Input and Output (IOs)
 ==========
 ## Exercise One: Simple IO Problems
 1. Consider the file **input1.txt**, which is located in the lab folder. What is the output of the following code?
